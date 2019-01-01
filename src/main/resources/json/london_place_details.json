@@ -1,0 +1,158 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "London",
+        "short_name": "London",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "London",
+        "short_name": "London",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Greater London",
+        "short_name": "Greater London",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "England",
+        "short_name": "England",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "adr_address": "\u003cspan class=\"locality\"\u003eLondon\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUK\u003c/span\u003e",
+    "formatted_address": "London, UK",
+    "geometry": {
+      "location": {
+        "lat": 51.5073509,
+        "lng": -0.1277583
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 51.6723432,
+          "lng": 0.148271
+        },
+        "southwest": {
+          "lat": 51.38494009999999,
+          "lng": -0.3514683
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b1a8b96daab5065cf4a08f953e577c34cdf769c0",
+    "name": "London",
+    "photos": [
+      {
+        "height": 723,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/106882540037345428413/photos\"\u003eJean-Pierre DJIP\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAADy6kL-sPONhMvCMny0GvElP32kBI_m0DqCDUd9Bp2fqi8X1Nq8lMEXqFdQ3RPpNJiELmxHSOAYqgynAcLuJDYNCHsphipL7MiEI2vAwoQAdBnnRWvLZ_KBkp10PPJHX9EhDzyt1jt0d5JbkIv0wWRrquGhSFwrZMOLHQADCQtmVW_YYwOIgOuw",
+        "width": 1076
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114647298085396208768/photos\"\u003eGeorge Morina\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAkvtrkNQ6qSS-pSYuUaGjs_Zjjzo0Biv1tH6zTl77ts22qJV-CdAUvGVFCg02CfNen5DMfTEPzprQ-x6To_8qdrnF-1C5Ii8-fBVzoLP1LRx194sxlCP20oprtv3V-r4EEhBv2UZJzjSkf5clNeyshzskGhSN1mPiB8xnRWisdOxff2LlDinOFA",
+        "width": 1600
+      },
+      {
+        "height": 1065,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/117641363844967821087/photos\"\u003eManuel Ligabue\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAALtV1xViegQT747bH82u1zP-6sUsTG9fSxjX5XHspObqKpWBbA7hlg9X9lJG1qv_98rVbQuJAlMF6DlnA9-G3Em1p53klpVNJHmUcdcBnOYiri0Wb3PCQ5gNIzd0ab3jcEhB7j_SWt3ZWvtfQXPUFxQ4eGhRa3rc00_TmFtXvs6HnaZvHCIuZVA",
+        "width": 1600
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/113856488991850624540/photos\"\u003eFranz Baernthaler\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAsjDuhf4lTK7X0lRIX-ZL0o2JIN8rJlMnfTSMIlUcF6dD79jVdiRAL7BzSmzJlEObId0iCgEYtjTpCmie2Fzvm9TyGTJ6r2p8bikig6jmuk7rUZ032FyaxuoiLXpdNHKSEhDbWJlgoutBoG_OryiCW_VrGhRzL_C2PSFXswAUECX7PyziaOa01A",
+        "width": 2560
+      },
+      {
+        "height": 2136,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110744511144480687702/photos\"\u003eNuno Martins\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAHVtXq-CW42DhRU7ea4HjAOZsCu9rs_LzFfg3kHYyfFeTshdxtWp3A3jSjSSNRkLyMNvdnMjc525u9_ixhg23AeQ47XnrrZgnKHeZmI7-ZO6yFaQ3FE-60wOaocwJzsTwEhBt6l9xnvv8AXx6nzeKg5RqGhTaesm7nb1aa7_zOP4w_7D_7r3U_g",
+        "width": 3216
+      },
+      {
+        "height": 809,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/117764516527474292201/photos\"\u003eAlex Teixeira\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAkx6kPV4oipcrRPh9BHZmirP-po7G-3ZJKmuC0Vnjkk8duklG6IUGD3853C1i_zcuJ6-2B3kBGvI5WFLF2dxCpVbANgnkwCSErWL05gYasCp3TxnwMcHhJh13cjJt12wNEhBpAs_vCk6HbQm0IDwD_6BAGhT-qjyn1-EnrJF4aKp59y91HFOHDA",
+        "width": 1080
+      },
+      {
+        "height": 2988,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101774938509687678664/photos\"\u003eDean McBride\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAonWHC9cUQwKBMwL3wSsY2U-I46hkpGbyTRYQdX5ApVDA9xoy8uGKBXFOCJZaH5nh9u0bht4So3kxfHhkBvlHMZlvl19OyY-VeRRVpD9dullCe5YNzXgtHM5naE03fOEyEhB5Wse0KeKq6qZl2Utew3YxGhS43-od8us4wwFA5iTGuU6TNhu3vg",
+        "width": 5312
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/107558291194371092406/photos\"\u003emahesh iyer\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA6Iqcj3Cf_RarqDV--sUiyCFvRvfDBndt2XrrxOeif6w4EKlTKdyr1Ya2NwrWQd9osRbfuxiuxSE7uy1TaIXgf9tJLVNOrtiGHvVfjxpkE9gQ2MPtRuZEKZVAWDzPvb_WEhDUaSQOK-yn3q_S69Y2n0WCGhRe4uwHSJq7WwDTNSx3rx5A4md0iw",
+        "width": 1600
+      },
+      {
+        "height": 2432,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116068811719946413311/photos\"\u003eMassimo Casati\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAydkM84hL8XqvFC3gXPjrIAD0Ypp9hAnOP5MPCfvwc2b8MUpS0Wl8b1DwwSZJ0xiuNVeGdq-FhUndlVNaSmYzFWkbfO2KYfx2_2AqYXdaWhJ-AiJVpT9eneLOIHUttn7kEhBWtNJvm-O-HfQlkA4IH3CqGhT6I4i4G5YpQYheeyvtYQbH0hg22Q",
+        "width": 4320
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/111849553513496073867/photos\"\u003eDestiny Symonee\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA1UcRI959AaTYSM7QtuErsSYWSGfzJIMzwF4sqbjIp-U4rIXl_-bAIBdJNpNd_2zy6qdKL0rUmeTK7586ySZUJ4Xhn8cKf_1_lvfNRpplSGu5kVzR8VYK3cjGMi16ZtWwEhCpK5k2JXCiiy_KEB4WPT4lGhTsO6oZY_SyjHlNTzn0MCA7HOtwbQ",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+    "scope": "GOOGLE",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "url": "https://maps.google.com/?q=London,+UK&ftid=0x47d8a00baf21de75:0x52963a5addd52a99",
+    "utc_offset": 0,
+    "vicinity": "London"
+  }
+}

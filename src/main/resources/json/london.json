@@ -1,0 +1,39 @@
+{
+  "candidates" : [
+    {
+      "formatted_address" : "London, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5073509,
+          "lng" : -0.1277583
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.6723432,
+            "lng" : 0.148271
+          },
+          "southwest" : {
+            "lat" : 51.38494009999999,
+            "lng" : -0.3514683
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "b1a8b96daab5065cf4a08f953e577c34cdf769c0",
+      "name" : "London",
+      "photos" : [
+        {
+          "height" : 723,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106882540037345428413/photos\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAJBe6K-GFwqUjq4CM-1w6fOYjpNDpqAxaea2hp5_Zh6j1CB3h-v0dqHSdnKJFUsPa8_AB7watc63B2xHHNf3chVvU8A_n1AOESIglj13itJKieY5trnJ2QBZLYtt73ZJEEhC_Bx9dXnAaFovqN3dlexMCGhRIdGrsF8kkKlUHl5f0CLg83tigGA",
+          "width" : 1076
+        }
+      ],
+      "place_id" : "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+      "types" : [ "locality", "political" ]
+    }
+  ],
+  "status" : "OK"
+}
